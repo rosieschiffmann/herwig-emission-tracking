@@ -1,0 +1,4162 @@
+<Grids>
+<CellGrid branching="1" dimension="5" integral="0.020473123614637233" keepWeightInformation="0" process="ME:-5,5,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.01936658752938291" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="6.7367508494598364e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="5.3894006795678686e-10">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="6.736744112708986e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="1.077879058033438e-09">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="6.736737375964874e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.1121675527209422e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.6317872337414029e-10">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.249802868321423" volume="0.015625" weight="0.00026317846019541691">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="6.3255206206927798e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.249518100396246" volume="0.015625" weight="0.0036028815046800751">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.04244166843498107" volume="0.015625" weight="0.00044545169256330404">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.019299220020888311" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00051188120569211747" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00035185084571774601" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2882720437319704" volume="0.03125" weight="0.0075386086677264258">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5580825357721605" volume="0.03125" weight="0.0037206183952414465">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00016003035997437143" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.8407464216790292e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.03476080033931268" volume="0.015625" weight="0.0010315603231810259">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.0211840443755053" volume="0.015625" weight="0.002066517386693553">
+<Boundaries>
+0.25 0.3125 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00011162289575758114" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.3125 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3967048047540519" volume="0.015625" weight="0.0023758363591974197">
+<Boundaries>
+0.3125 0.34375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.230974350737368" volume="0.015625" weight="0.004768028969287773">
+<Boundaries>
+0.34375 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.018787338815196192" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0012947167738844153" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1750433971552108" volume="0.03125" weight="0.010852317612183559">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00095558184850367915" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05023861317744233" volume="0.015625" weight="0.021110017805351107">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05224766053679332" volume="0.015625" weight="0.040047220498884359">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1413172166877021" volume="0.0625" weight="0.27988195266098842">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0011065360852543242" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0011065349787182388" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0011025171263054272" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00092852174315113554" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07737284178013441" volume="0.03125" weight="0.021969932721262294">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0002419613456116888" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.06795234757081231" volume="0.015625" weight="0.0048939110526844166">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.0512749904220212" volume="0.015625" weight="0.010591615066463667">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00017399538315429158" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="5.2209409676556501e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07471471421127632" volume="0.015625" weight="0.0022286739363732051">
+<Boundaries>
+0.5625 0.59375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.02784429146576169" volume="0.015625" weight="0.0011127282829264109">
+<Boundaries>
+0.59375 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00012178597347773507" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05203358561457636" volume="0.015625" weight="0.0050149395534896356">
+<Boundaries>
+0.5625 0.59375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.03836890442553569" volume="0.015625" weight="0.0027793627490854088">
+<Boundaries>
+0.59375 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="4.0178524128116666e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.0178483949592528e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.0178443771108582e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.04782246675523524" volume="0.015625" weight="0.00025714178299305479">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.5714204013509492e-10">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="1.285711486386961e-10">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="6.4285638604986659e-11">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="4.4261443410172966e-09">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:-5,5,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 259.43255437531883 0.60000000000000009 15948.375471561707 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.0054312358366458693 0.45000000000000001 0.5 0.10682504067460789 0.33870791270147677 0.5 0.55000000000000004 6.6655335372966178 0.67198458956630758 0.55000000000000004 0.60000000000000009 6.6655335372966178 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.558908460628488 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899837994 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870393 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 16053.891937226266 1 153.91608871074467 
+</BinData>
+<SelectorData>
+0.9905035839229811 0 0.5 1.9810071678459622 1 0.5 1 0.01899283215403786 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.33733922893148 0.10000000000000001 17.991518627196331 0.15000000000000002 134.02619115191007 0.20000000000000001 392.641833277611 0.25 687.34587936561604 0.30000000000000004 957.39176977989951 0.35000000000000003 1105.8900326167397 0.40000000000000002 1394.3850264672908 0.45000000000000001 1879.8811138800088 0.5 1754.4366882675106 0.55000000000000004 1587.2217854402497 0.60000000000000009 1545.4366048692311 0.65000000000000002 1520.1885876809515 0.70000000000000007 1354.054879978388 0.75 906.6859379666837 0.80000000000000004 496.43760213932353 0.85000000000000009 348.74807281937063 0.90000000000000002 108.32499779032868 0.95000000000000007 16.17377081074682 1 0.20839377896743075 
+</BinData>
+<SelectorData>
+0.000565237553453614 0 0.050000000000000003 0.011304751069072279 0.003697522021061351 0.050000000000000003 0.10000000000000001 0.062645689352154726 0.014895238394483786 0.10000000000000002 0.15000000000000002 0.22395432746844871 0.039854285823996437 0.15000000000000002 0.20000000000000001 0.49918094859025292 0.081740998138203819 0.20000000000000001 0.25 0.83773424628414761 0.13829145983836869 0.25000000000000006 0.30000000000000004 1.1310092340032973 0.20937801832611269 0.30000000000000004 0.35000000000000003 1.4217311697548796 0.29943013826306059 0.35000000000000003 0.40000000000000002 1.8010423987389583 0.40281580132339184 0.40000000000000002 0.45000000000000001 2.0677132612066251 0.51016601684750751 0.45000000000000001 0.5 2.1470043104823144 0.61064035036002096 0.5 0.55000000000000004 2.0094866702502681 0.70629875101168649 0.55000000000000004 0.60000000000000009 1.9131680130333109 0.79716344721382104 0.59999999999999998 0.65000000000000002 1.81729392404269 0.87489599711926558 0.65000000000000002 0.70000000000000007 1.5546509981088898 0.93158113618018357 0.69999999999999996 0.75 1.1337027812183582 0.96759806031979367 0.75 0.80000000000000004 0.72033848279220125 0.98720139272916063 0.80000000000000004 0.85000000000000009 0.39206664818734011 0.99693092739425393 0.84999999999999998 0.90000000000000002 0.19459069330186493 0.99949479587295353 0.90000000000000002 0.95000000000000007 0.051277369573992426 1 0.94999999999999996 1 0.010104082540930082 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.037162305861134615" keepWeightInformation="0" process="ME:-4,4,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.034323761040188035" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00019921924064782428" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="1.5937539251825941e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00019921904142858362" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="3.1875046628573379e-09">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00019921884220954218" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="2.2293379013969106e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="3.5307379707514948e-05">
+<Boundaries>
+0.1875 0.21875 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1271019612631284" volume="0.015625" weight="0.0013914688771865078">
+<Boundaries>
+0.21875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00017692546319557307" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.02106803051354897" volume="0.015625" weight="0.000273077445172217">
+<Boundaries>
+0.1875 0.21875 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.315238507560377" volume="0.015625" weight="0.01105015219934446">
+<Boundaries>
+0.21875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.034124541799540213" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0016546811383140482" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0013630460541954022" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00027988497215020787" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07476236017417021" volume="0.015625" weight="0.0058468376064802208">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09013855761397672" volume="0.015625" weight="0.012065800611133083">
+<Boundaries>
+0.3125 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0010831610820451944" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1155244998011918" volume="0.015625" weight="0.0091308835521946938">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3288561501548034" volume="0.015625" weight="0.060191425698697745">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00029163508411864591" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="6.3012211664043415e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09542784581946802" volume="0.015625" weight="0.0026829927860315076">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.06497204708326648" volume="0.015625" weight="0.0013497887604672712">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00022862287245460251" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1443698011892727" volume="0.015625" weight="0.0020346856072111126">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4471300638207966" volume="0.015625" weight="0.012597178229883448">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.032469860661226174" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0020183570660430323" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2006650001247464" volume="0.03125" weight="0.044286408599408043">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00063440679731153115" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3361091527039643" volume="0.015625" weight="0.0099634826801941502">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09190312523430771" volume="0.015625" weight="0.030638552347743847">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.030451503595183144" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0090897368582385646" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1055141919087611" volume="0.015625" weight="0.11840162067783473">
+<Boundaries>
+0.4375 0.453125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1697961460886444" volume="0.015625" weight="0.46334153824943336">
+<Boundaries>
+0.453125 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.021361766736944579" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.46875 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1320742236783544" volume="0.015625" weight="1.1012953466664348">
+<Boundaries>
+0.46875 0.484375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1687725806272044" volume="0.015625" weight="0.26585772449801831">
+<Boundaries>
+0.484375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0028385448209465808" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0028385419824017593" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0028082581734975294" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0023788600917889341" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0018326119166090699" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1011285456547218" volume="0.015625" weight="0.036809356587415333">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1907136194605542" volume="0.015625" weight="0.080477806075565136">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00054624817517986404" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1155565763045697" volume="0.015625" weight="0.0082276917659599505">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1635424840175926" volume="0.015625" weight="0.026732191445551348">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00042939808170859567" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="7.6531031223448228e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05651547222695039" volume="0.015625" weight="0.0015492964280521286">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2189461910309353" volume="0.015625" weight="0.0033486895702485582">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00035286705048514746" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1873115408669645" volume="0.015625" weight="0.007831760806156246">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2016691316793494" volume="0.015625" weight="0.014751730424893191">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="3.0283808904230106e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="3.0283778620421201e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="3.028374833664258e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4735990745359124" volume="0.015625" weight="0.001922599164289649">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="1.5560729255476051e-05">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="9.6908091585347831e-10">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="4.8454094246768172e-10">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="1.1354179283786323e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:-4,4,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 1088.8080191647932 0.60000000000000009 27362.573537378597 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.012850711456302715 0.45000000000000001 0.5 0.25521455306774476 0.3461273883211336 0.5 0.55000000000000004 6.6655335372966178 0.67940406518596452 0.55000000000000004 0.60000000000000009 6.6655335372966178 0.99993001259773218 0.59999999999999998 0.65000000000000002 6.4105189482353504 0.99994001079805617 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899838016 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870415 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902825 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935224 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967623 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1.0000000000000002 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 26995.291081219708 1 1456.0904753238433 
+</BinData>
+<SelectorData>
+0.94882180071185485 0 0.5 1.8976436014237097 1 0.5 1 0.10235639857629031 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.89728310246824694 0.10000000000000001 51.242787754523043 0.15000000000000002 259.87834224436386 0.20000000000000001 744.34597826102447 0.25 1099.3548604353114 0.30000000000000004 1488.6614227808461 0.35000000000000003 2444.6553801772998 0.40000000000000002 2548.3819775916195 0.45000000000000001 3102.1726060753749 0.5 3348.2928791986033 0.55000000000000004 2594.4458523799262 0.60000000000000009 2881.8337284617714 0.65000000000000002 2321.5173586756973 0.70000000000000007 1928.0879988491747 0.75 1638.9133567425674 0.80000000000000004 1191.9770933096506 0.85000000000000009 539.28384151074874 0.90000000000000002 218.53868622163739 0.95000000000000007 48.079658433246109 1 0.82046433772875305 
+</BinData>
+<SelectorData>
+0.00091577760505246993 0 0.050000000000000003 0.018315552101049397 0.0045692629236787985 0.050000000000000003 0.10000000000000001 0.073069706372526563 0.01692793607374048 0.10000000000000002 0.15000000000000002 0.24717346300123361 0.041559160807385739 0.15000000000000002 0.20000000000000001 0.49262449467290509 0.080578449693700621 0.20000000000000001 0.25 0.78038577772629758 0.13950699770122485 0.25000000000000006 0.30000000000000004 1.1785709601504846 0.21540249085215099 0.30000000000000004 0.35000000000000003 1.5179098630185228 0.31019090561309465 0.35000000000000003 0.40000000000000002 1.8957682952188726 0.41556019059647004 0.40000000000000002 0.45000000000000001 2.1073856996675073 0.52146884660152759 0.45000000000000001 0.5 2.1181731201011504 0.62479751110389636 0.5 0.55000000000000004 2.0665732900473772 0.71610345793243113 0.55000000000000004 0.60000000000000009 1.8261189365706945 0.79960688884330711 0.59999999999999998 0.65000000000000002 1.6700686182175191 0.86855671926259082 0.65000000000000002 0.70000000000000007 1.3789966083856757 0.92428053928302167 0.69999999999999996 0.75 1.1144764004086154 0.963742576709119 0.75 0.80000000000000004 0.78924074852194726 0.98657316615714064 0.80000000000000004 0.85000000000000009 0.45661178896043297 0.99600963426855471 0.84999999999999998 0.90000000000000002 0.1887293622282839 0.99914112818448608 0.90000000000000002 0.95000000000000007 0.062629878318625168 1 0.94999999999999996 1 0.01717743631028092 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.082381151611479214" keepWeightInformation="0" process="ME:-3,3,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.077934952432851062" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00027296496462013014" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="2.1837197169610414e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00027296469165516554" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="4.3674350664826483e-09">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00027296441869047384" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="1.4052332213516374e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="8.99349261665048e-10">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2793552068292471" volume="0.015625" weight="0.00089934836231578632">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00025891208647695746" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1005194439454971" volume="0.015625" weight="0.012952669385176441">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07776441673362226" volume="0.015625" weight="0.003617704149348836">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.077661987468230928" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0017773832790679977" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00058748267154940794" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="5.974823870191283" volume="0.03125" weight="0.013201216790228482">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00017494464685476789" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1389976008937153" volume="0.015625" weight="0.0044175999309155681">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09883198016502198" volume="0.015625" weight="0.0067788574677895772">
+<Boundaries>
+0.25 0.3125 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.822139343262725" volume="0.0625" weight="0.019038409720297435">
+<Boundaries>
+0.3125 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.07588460418916293" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0051600440742612516" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5246201665754311" volume="0.03125" weight="0.043713149713715059">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0037940081457076558" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1629227212287507" volume="0.015625" weight="0.08298955926660366">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1891518341208496" volume="0.015625" weight="0.15982696205868629">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5433275471228812" volume="0.0625" weight="1.1315929618384268">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.004446199178628157" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0044461947324289782" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.004429122385104795" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0037271788413226529" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0027817444049947518" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2459995686609679" volume="0.015625" weight="0.11689424913285709">
+<Boundaries>
+0.5 0.515625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2351254530136087" volume="0.015625" weight="0.061137392786807028">
+<Boundaries>
+0.515625 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0009454344363279011" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1960905877955605" volume="0.015625" weight="0.019850484394496406">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.402249017258115" volume="0.015625" weight="0.040657319530489268">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00070194354378214226" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00019969116083681644" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1377333040213967" volume="0.015625" weight="0.0084689492334640588">
+<Boundaries>
+0.5625 0.59375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1381452827638833" volume="0.015625" weight="0.0043112850600921931">
+<Boundaries>
+0.59375 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.400165968103965" volume="0.03125" weight="0.016072076254250427">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="1.7072347324183122e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="1.7072330251835795e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="1.7072313179505541e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5530019773697719" volume="0.015625" weight="0.0010926269508603112">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="1.0926280434883548e-09">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="5.4631456805874549e-10">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="2.7315755718692991e-10">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="1.7784796714512629e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:-3,3,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 1102.6828951783466 0.60000000000000009 65010.39969534814 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.0056552286249411847 0.45000000000000001 0.5 0.11130489644051418 0.33893190548977198 0.5 0.55000000000000004 6.6655335372966169 0.6722085823546029 0.55000000000000004 0.60000000000000009 6.6655335372966169 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.5544286048625811 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899837994 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870393 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 65462.704679066548 1 650.37791145985375 
+</BinData>
+<SelectorData>
+0.9901626442758994 0 0.5 1.9803252885517988 1 0.5 1 0.019674711448201296 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.925411725981934 0.10000000000000001 58.727778651433695 0.15000000000000002 458.28778940441964 0.20000000000000001 1379.1877400934602 0.25 2442.4401238957703 0.30000000000000004 4010.3923920669909 0.35000000000000003 4601.3894846920639 0.40000000000000002 6552.9097809496197 0.45000000000000001 7133.673090842386 0.5 6705.9993341440158 0.55000000000000004 7134.0303301978547 0.60000000000000009 6806.3860718213691 0.65000000000000002 5616.7313754532988 0.70000000000000007 4878.4671842804364 0.75 3879.3078066109606 0.80000000000000004 2514.3697572054002 0.85000000000000009 1275.2472984836043 0.90000000000000002 602.41846251744164 0.95000000000000007 61.122836971095282 1 1.0685405187158457 
+</BinData>
+<SelectorData>
+0.00045101112985811148 0 0.050000000000000003 0.009020222597162229 0.003061624745137733 0.050000000000000003 0.10000000000000001 0.052212272305592423 0.012619188959651095 0.10000000000000002 0.15000000000000002 0.1911512842902672 0.034191542785958033 0.15000000000000002 0.20000000000000001 0.43144707652613873 0.073667814241092713 0.20000000000000001 0.25 0.78952542910269374 0.12938517121367399 0.25000000000000006 0.30000000000000004 1.1143471394516253 0.20582081167951841 0.30000000000000004 0.35000000000000003 1.5287128093168882 0.29799893909821518 0.35000000000000003 0.40000000000000002 1.8435625483739353 0.40078507658428519 0.40000000000000002 0.45000000000000001 2.0557227497213995 0.50650027602375625 0.45000000000000001 0.5 2.1143039887894197 0.61056582814564975 0.5 0.55000000000000004 2.0813110424378705 0.70914106790638654 0.55000000000000004 0.60000000000000009 1.9715047952147362 0.7963474372963425 0.59999999999999998 0.65000000000000002 1.7441273877991177 0.86880025238100655 0.65000000000000002 0.70000000000000007 1.4490563016932818 0.92561602039607926 0.69999999999999996 0.75 1.1363153603014524 0.96427023089803576 0.75 0.80000000000000004 0.77308421003913108 0.98640771020591189 0.80000000000000004 0.85000000000000009 0.44274958615752125 0.9961799199915653 0.84999999999999998 0.90000000000000002 0.19544419571306801 0.9995297987710019 0.90000000000000002 0.95000000000000007 0.066997575588730984 0.99999999999999978 0.94999999999999996 1 0.0094040245799598462 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.3082987030148906" keepWeightInformation="0" process="ME:-2,2,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.28491283420348057" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0018327388000811276" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="1.4661910400649021e-08">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0018327369673423275" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="2.9323791477477238e-08">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0018327351346053603" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="8.7279145288635427e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="5.5858652984726677e-09">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="10.72636507078162" volume="0.015625" weight="0.0055858597126073693">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0017454559893167248" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6646992114478427" volume="0.015625" weight="0.010930309358405518">
+<Boundaries>
+0.21875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="9.471116807911214" volume="0.015625" weight="0.10077887395786488">
+<Boundaries>
+0.21875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.28308009540339946" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.011949138430819288" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0097154713306210946" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0021599052178807652" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6506006861309741" volume="0.015625" weight="0.044393133993595922">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.771506417371747" volume="0.015625" weight="0.09384079995077306">
+<Boundaries>
+0.3125 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0075555661127403298" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.02984377376714" volume="0.015625" weight="0.06238222329303867">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.300919716271814" volume="0.015625" weight="0.42117400792234244">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.002233667100198193" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00048494054945451921" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4276192352311275" volume="0.015625" weight="0.021218659554724663">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9711023832960345" volume="0.015625" weight="0.0098175356103645684">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0017487265507436739" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5290237029987215" volume="0.015625" weight="0.015753958478779636">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.034282426841379" volume="0.015625" weight="0.09616454076881549">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.27113095697258016" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.015987601415059588" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0048176883583197928" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.727471311465836" volume="0.015625" weight="0.22103993953737136">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.797905060698703" volume="0.015625" weight="0.087292115395095377">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.43638396545289" volume="0.03125" weight="0.35743721781567339">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.25514335555752055" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.084778379043667668" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.931025440862943" volume="0.015625" weight="1.0047421185851153">
+<Boundaries>
+0.4375 0.453125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.331071374985482" volume="0.015625" weight="4.4210741402096154">
+<Boundaries>
+0.453125 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.17036497651385288" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.46875 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9449670348472131" volume="0.015625" weight="8.9836757518945234">
+<Boundaries>
+0.46875 0.484375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.373993608248921" volume="0.015625" weight="1.9196827449920608">
+<Boundaries>
+0.484375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.023385868811410047" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.02338584542554124" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.023111322378230662" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.019260128636262284" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.014700097833378745" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9909181623082158" volume="0.015625" weight="0.28140480036053928">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.002561731364676" volume="0.015625" weight="0.6594014609757004">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0045600308028835397" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9530914629109997" volume="0.015625" weight="0.064926693266455907">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.312570289069792" volume="0.015625" weight="0.22691527811809062">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0038511937419683788" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00067218050644321503" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.27926836914385" volume="0.015625" weight="0.013033645981535386">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.04933489625612" volume="0.015625" weight="0.029985906430830375">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.882207711386315" volume="0.03125" weight="0.10172842353680524">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00027452304731057808" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00027452277278753077" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00027452249826475798" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.084089655303432" volume="0.015625" weight="0.017543562562886139">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.5877326058370543e-05">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="8.7847287292009845e-09">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="4.3923687569692488e-09">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="9.3543475245640185e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:-2,2,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 8247.3139055656829 0.60000000000000009 231380.64247723075 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.011566971543124126 0.45000000000000001 0.5 0.22953975480417299 0.34484364840795501 0.5 0.55000000000000004 6.6655335372966178 0.67812032527278587 0.55000000000000004 0.60000000000000009 6.6655335372966178 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.4361937464989225 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899837994 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870393 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 228217.46848569723 1 11410.487897098832 
+</BinData>
+<SelectorData>
+0.95238248462599651 0 0.5 1.904764969251993 1 0.5 1 0.095235030748007002 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 1112.8042371196104 0.10000000000000001 12549.185260974593 0.15000000000000002 27363.777415841872 0.20000000000000001 29794.677000368731 0.25 30337.797543350622 0.30000000000000004 19824.658630271366 0.35000000000000003 18815.713526947213 0.40000000000000002 17978.739162471888 0.45000000000000001 16105.671705441338 0.5 13846.839032044971 0.55000000000000004 10678.477943811542 0.60000000000000009 9768.8215496308712 0.65000000000000002 8399.2213849538784 0.70000000000000007 8542.8396329892857 0.75 6279.4993710613253 0.80000000000000004 4520.0435553938451 0.85000000000000009 2602.799185609158 0.90000000000000002 944.04426110728048 0.95000000000000007 159.53984249464213 1 2.8061409119610241 
+</BinData>
+<SelectorData>
+0.028278650143488068 0 0.050000000000000003 0.56557300286976131 0.084890869010016662 0.050000000000000003 0.10000000000000001 1.1322443773305719 0.18108173760127261 0.10000000000000002 0.15000000000000002 1.9238173718251188 0.3018194431590206 0.15000000000000002 0.20000000000000001 2.4147541111549589 0.41215377847277457 0.20000000000000001 0.25 2.2066867062750797 0.50733803787475251 0.25000000000000006 0.30000000000000004 1.9036851880395589 0.58546780273162446 0.30000000000000004 0.35000000000000003 1.5625952971374393 0.65846566835570686 0.35000000000000003 0.40000000000000002 1.4599573124816463 0.72460689164045577 0.40000000000000002 0.45000000000000001 1.3228244656949784 0.78067434868067309 0.45000000000000001 0.5 1.1213491408043463 0.82799746832196486 0.5 0.55000000000000004 0.94646239282583344 0.86780331904332986 0.55000000000000004 0.60000000000000009 0.79611701442730143 0.9046621627355359 0.59999999999999998 0.65000000000000002 0.73717687384411901 0.93670602585020846 0.65000000000000002 0.70000000000000007 0.64087726229345277 0.96339693932301496 0.69999999999999996 0.75 0.53381826945612976 0.98189108049443918 0.75 0.80000000000000004 0.36988282342848455 0.99302272791721746 0.80000000000000004 0.85000000000000009 0.22263294845556716 0.99813723515878194 0.84999999999999998 0.90000000000000002 0.10229014483128929 0.9996639636366581 0.90000000000000002 0.95000000000000007 0.030534569557521409 1 0.94999999999999996 1 0.0067207272668395272 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.26083719133096839" keepWeightInformation="0" process="ME:-1,1,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.24676302822051505" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00070740196361673727" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="5.6592157089338977e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00070740125621477354" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="1.1318420099436378e-08">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00070740054881351737" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="7.9887438540813136e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="5.1127960666120403e-09">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.258515976177279" volume="0.015625" weight="0.005112790953815974">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00062751311027270428" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="8.44304665970264" volume="0.015625" weight="0.032463575517535301">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3407729754063397" volume="0.015625" weight="0.0076972635399177721">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.24605562625689831" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0056850035301574675" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0019758918580907369" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0014969475429750818" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6204211197108013" volume="0.015625" weight="0.035340847999358764">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="8.268192857975047" volume="0.015625" weight="0.060463794751046469">
+<Boundaries>
+0.25 0.3125 0 0.5 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="11.03457095563982" volume="0.03125" weight="0.015326218083700964">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7682375305875386" volume="0.0625" weight="0.059345786753067682">
+<Boundaries>
+0.3125 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.24037062272674084" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.01623444348675137" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.479031345831418" volume="0.03125" weight="0.1339056128531958">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.012049893085089001" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7776193164471513" volume="0.015625" weight="0.25902751958619857">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6865491788995329" volume="0.015625" weight="0.51216563785949754">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.900338403374713" volume="0.0625" weight="3.5861788678398314">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.014074163110453359" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.014074149036290248" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.014023803359999459" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.011661087713178078" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0086768013671983581" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9346473298376361" volume="0.015625" weight="0.36091662331381741">
+<Boundaries>
+0.5 0.515625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9478702439039215" volume="0.015625" weight="0.19439866418687751">
+<Boundaries>
+0.515625 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0029842863459797198" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.959179733577042" volume="0.015625" weight="0.063483197571809979">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.186240647446347" volume="0.015625" weight="0.12751112857089208">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0023627156468213791" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.429758060395886" volume="0.03125" weight="0.023197971057938784">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.250254750306088" volume="0.03125" weight="0.052408929640345346">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="5.0345676290789137e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="5.034562594511284e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="5.0345575599486897e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1954320958870027" volume="0.015625" weight="0.0032221136162503229">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="3.2221168383671612e-09">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="1.611060030243611e-09">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="8.0553082065262621e-10">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="5.629665244181343e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:-1,1,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 3118.0833138641647 0.60000000000000009 199836.97827186208 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416862e-06 0 0.050000000000000003 0.0001999640064788337 1.9996400647883372e-05 0.050000000000000003 0.10000000000000001 0.0001999640064788337 2.999460097182506e-05 0.10000000000000002 0.15000000000000002 0.0001999640064788337 3.9992801295766745e-05 0.15000000000000002 0.20000000000000001 0.0001999640064788337 4.9991001619708433e-05 0.20000000000000001 0.25 0.0001999640064788337 5.9989201943650114e-05 0.25000000000000006 0.30000000000000004 0.0001999640064788337 6.9987402267591802e-05 0.30000000000000004 0.35000000000000003 0.0001999640064788337 7.9985602591533489e-05 0.35000000000000003 0.40000000000000002 0.0001999640064788337 8.9983802915475177e-05 0.40000000000000002 0.45000000000000001 0.0001999640064788337 0.0052168667463790364 0.45000000000000001 0.5 0.10253765886927121 0.33849354361120987 0.5 0.55000000000000004 6.665533537296616 0.67177022047604074 0.55000000000000004 0.60000000000000009 6.665533537296616 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.5631958424338244 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.0001999640064788337 0.99995000899837994 0.69999999999999996 0.75 0.0001999640064788337 0.99996000719870393 0.75 0.80000000000000004 0.0001999640064788337 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.0001999640064788337 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.0001999640064788337 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.0001999640064788337 1 0.94999999999999996 1 0.0001999640064788337 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 201034.92535659348 1 1920.1362291330101 
+</BinData>
+<SelectorData>
+0.9905391064695277 0 0.5 1.9810782129390554 1 0.5 1 0.018921787060944634 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 138.74479248411424 0.10000000000000001 3710.0826713645124 0.15000000000000002 10253.710743910302 0.20000000000000001 17234.476429063663 0.25 17240.07286381887 0.30000000000000004 16440.7060154422 0.35000000000000003 16401.013030759812 0.40000000000000002 17548.936707754008 0.45000000000000001 16100.837898695579 0.5 16129.314824794534 0.55000000000000004 15232.720091960413 0.60000000000000009 13550.764487572773 0.65000000000000002 13113.38621525803 0.70000000000000007 9679.7091031555028 0.75 8613.9979010037241 0.80000000000000004 6865.6958924683295 0.85000000000000009 3119.4519047742137 0.90000000000000002 1342.004905502745 0.95000000000000007 235.65027896706013 1 3.7848269758025896 
+</BinData>
+<SelectorData>
+0.0094524478477095806 0 0.050000000000000003 0.1890489569541916 0.032542338328428691 0.050000000000000003 0.10000000000000001 0.46179780961438222 0.083622833433725924 0.10000000000000002 0.15000000000000002 1.0216099021059446 0.15685579408434572 0.15000000000000002 0.20000000000000001 1.4646592130123959 0.24021863640022501 0.20000000000000001 0.25 1.6672568463175856 0.32221686063792487 0.25000000000000006 0.30000000000000004 1.6399644847539974 0.40472078336938899 0.30000000000000004 0.35000000000000003 1.6500784546292817 0.48666824474063847 0.35000000000000003 0.40000000000000002 1.6389492274249902 0.56817085840241011 0.40000000000000002 0.45000000000000001 1.6300522732354321 0.64588116267984186 0.45000000000000001 0.5 1.5542060855486344 0.71941626708096873 0.5 0.55000000000000004 1.4707020880225377 0.78801343334174345 0.55000000000000004 0.60000000000000009 1.3719433252154958 0.84751873162238467 0.59999999999999998 0.65000000000000002 1.1901059656128223 0.89894113034739553 0.65000000000000002 0.70000000000000007 1.028447974500218 0.94013427224037782 0.69999999999999996 0.75 0.82386283785964542 0.97058639588512474 0.75 0.80000000000000004 0.60904247289494085 0.98913218611889098 0.80000000000000004 0.85000000000000009 0.37091580467532392 0.99682269449894867 0.84999999999999998 0.90000000000000002 0.15381016760115371 0.99941196432599422 0.90000000000000002 0.95000000000000007 0.051785396540909634 0.99999999999999978 0.94999999999999996 1 0.011760713480113233 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.25832784296906697" keepWeightInformation="0" process="ME:1,-1,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.24358506469037508" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00073350241850847736" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="5.868019348067819e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00073350168500605872" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="1.173602696009694e-08">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00073350095150437377" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="9.9706701018191111e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="6.3812288651642319e-09">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3179362980253755" volume="0.015625" weight="0.0063812224839353664">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0006337942504861826" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4114612936970003" volume="0.015625" weight="0.017616236037947632">
+<Boundaries>
+0.21875 0.234375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.608191730995036" volume="0.015625" weight="0.022946595993168051">
+<Boundaries>
+0.234375 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.24285156227186661" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0056215985794070226" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0018390339410527846" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="11.29960457930978" volume="0.03125" weight="0.015485274785475234">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9412549437534374" volume="0.03125" weight="0.043363811328213875">
+<Boundaries>
+0.3125 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0037825646383542379" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="10.83105891453777" volume="0.03125" weight="0.043093855905243401">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.580004633749055" volume="0.03125" weight="0.07794821252209222">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.23722996369245958" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.015932740911879691" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.338777148676378" volume="0.03125" weight="0.13265077191438868">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.011787404289555046" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7361662448839715" volume="0.015625" weight="0.25689598959162457">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6162909366481285" volume="0.015625" weight="0.49749788493989838">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.92833484743641" volume="0.0625" weight="3.5407555644892783">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.014742778278691903" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.014742763535913623" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.014675822573187005" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.01226535613465018" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00912862171942227" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7259774336971935" volume="0.015625" weight="0.38392717794782288">
+<Boundaries>
+0.5 0.515625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.8373206885532744" volume="0.015625" weight="0.20030461209520239">
+<Boundaries>
+0.515625 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0031367344152279102" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9414961578131397" volume="0.015625" weight="0.13661886017358055">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.8620636121760432" volume="0.015625" weight="0.064132142401005704">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0024104664385368245" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.681457418108674" volume="0.03125" weight="0.053987762091786649">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.796450630805193" volume="0.03125" weight="0.02314716394139173">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="6.6940962726620029e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="6.6940895785657287e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="6.6940828844761508e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5333044220834671" volume="0.015625" weight="0.0042842087618516905">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="4.284213046064736e-09">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="2.1421086651410334e-09">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="1.0710554036259204e-09">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="5.897111311476761e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:1,-1,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 3189.0561006345865 0.60000000000000009 190488.10357353251 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.0055842730715367599 0.45000000000000001 0.5 0.1098857853724257 0.33886094993636762 0.5 0.55000000000000004 6.6655335372966169 0.6721376268011986 0.55000000000000004 0.60000000000000009 6.6655335372966178 0.99993001259773218 0.59999999999999998 0.65000000000000002 6.5558477159306703 0.99994001079805617 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899838016 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870415 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902825 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935224 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967623 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1.0000000000000002 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 191753.24552626867 1 1923.9141478977206 
+</BinData>
+<SelectorData>
+0.99006638598410668 0 0.5 1.9801327719682134 1 0.5 1 0.019867228031786772 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 3.5485185823246663 0.10000000000000001 165.79503360510469 0.15000000000000002 1187.8420019213602 0.20000000000000001 3054.8828202272707 0.25 6270.6322302746876 0.30000000000000004 8739.0991386361511 0.35000000000000003 9413.785131988423 0.40000000000000002 11735.506547156412 0.45000000000000001 11654.206036287074 0.5 13478.350003233345 0.55000000000000004 15420.995770181406 0.60000000000000009 15653.264733439466 0.65000000000000002 14659.71786078858 0.70000000000000007 18699.648193377609 0.75 17181.434732524103 0.80000000000000004 16803.823847146694 0.85000000000000009 16911.141487289726 0.90000000000000002 9252.0693812919708 0.95000000000000007 3241.8921230391461 1 149.52408317622368 
+</BinData>
+<SelectorData>
+0.00043595897676960581 0 0.050000000000000003 0.0087191795353921148 0.0027652563048461633 0.050000000000000003 0.10000000000000001 0.046585946561531151 0.01033146822752074 0.10000000000000002 0.15000000000000002 0.15132423845349152 0.028375231231913503 0.15000000000000002 0.20000000000000001 0.3608752600878552 0.059378992977022954 0.20000000000000001 0.25 0.62007523490218908 0.10129635022824683 0.25000000000000006 0.30000000000000004 0.83834714502447738 0.15259290924451283 0.30000000000000004 0.35000000000000003 1.0259311803253195 0.20889257980083248 0.35000000000000003 0.40000000000000002 1.1259934111263932 0.27216814253764443 0.40000000000000002 0.45000000000000001 1.2655112547362393 0.34176900115891207 0.45000000000000001 0.5 1.3920171724253534 0.41823332565623322 0.5 0.55000000000000004 1.5292864899464227 0.49672519678175731 0.55000000000000004 0.60000000000000009 1.5698374225104808 0.58084412185426915 0.59999999999999998 0.65000000000000002 1.6823785014502362 0.66758579978834676 0.65000000000000002 0.70000000000000007 1.7348335586815518 0.75800734325740371 0.69999999999999996 0.75 1.8084308693811406 0.84535932569324368 0.75 0.80000000000000004 1.7470396487167987 0.91910237347011114 0.80000000000000004 0.85000000000000009 1.4748609555373493 0.96956947991907072 0.84999999999999998 0.90000000000000002 1.0093421289791906 0.99126911937323081 0.90000000000000002 0.95000000000000007 0.43399278908320321 1 0.94999999999999996 1 0.1746176125353846 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.30668315242799332" keepWeightInformation="0" process="ME:2,-2,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.28436995414447763" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0020994093879542677" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="1.6795275103634141e-08">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0020994072885448796" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="3.3590516616718069e-08">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0020994051891375909" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00018715769983692728" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="0.00054467284630779897">
+<Boundaries>
+0.1875 0.21875 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.200569289406934" volume="0.015625" weight="0.011433419943255547">
+<Boundaries>
+0.21875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0019122474893006635" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.727666476866877" volume="0.015625" weight="0.0060490443156997163">
+<Boundaries>
+0.1875 0.25 0 0.5 0.75 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="7.528804312289433" volume="0.015625" weight="0.11633479499954275">
+<Boundaries>
+0.1875 0.25 0 0.75 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.28227054475652336" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.011719518826977967" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.002286458018017818" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00047940390192985989" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6048948648815652" volume="0.015625" weight="0.010344240994300183">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.793340335332252" volume="0.015625" weight="0.020337608729210848">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.001807054116087958" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.07026298630509" volume="0.015625" weight="0.015483720910160668">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.861944677914116" volume="0.015625" weight="0.10016774251946865">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0094330608089601472" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.002165951045654587" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6441809567631033" volume="0.015625" weight="0.04497464206908347">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7183670318320562" volume="0.015625" weight="0.093646224852810087">
+<Boundaries>
+0.3125 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0072671097633055601" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7529525531661283" volume="0.015625" weight="0.070171478334538948">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.406600297229796" volume="0.015625" weight="0.39492354651701689">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.27055102592954539" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.016479157239462423" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0048824083927157588" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.574003378735957" volume="0.015625" weight="0.081343144725057021">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.885617124230534" volume="0.015625" weight="0.23113099240875157">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.33464512068316" volume="0.03125" weight="0.37109596309589321">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.112284815308657" volume="0.0625" weight="4.0651498990413275">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.022313198283515683" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.022313175970317404" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.02209704487284123" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.018348215189544777" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.013630824716291113" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.100465939614641" volume="0.015625" weight="0.60583954773069348">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.9454073194898417" volume="0.015625" weight="0.26653323411193769">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0047173904732536673" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.442632335742018" volume="0.015625" weight="0.23213467851271979">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.8438496200987672" volume="0.015625" weight="0.069778311775514884">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0037488296832964537" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0030761669683850145" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.587223737431557" volume="0.015625" weight="0.12306742641893026">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.508449340354863" volume="0.015625" weight="0.073807259557710683">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00067266271491143916" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.59438399750009" volume="0.015625" weight="0.029792726030483788">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.131801471396" volume="0.015625" weight="0.013257687723848322">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00021613109747617264" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00021613088134507516" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00021613066521419379" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="4.638753525367477" volume="0.015625" weight="0.01383234874134583">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="1.3832362573708404e-08">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="6.9161882030424052e-09">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="3.4580975596187621e-09">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="8.9252793134062739e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:2,-2,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 7895.2183885530858 0.60000000000000009 246271.8738477538 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.010449153253887277 0.45000000000000001 0.5 0.207183389019436 0.3437258301187181 0.5 0.55000000000000004 6.6655335372966169 0.67700250698354891 0.55000000000000004 0.60000000000000009 6.6655335372966169 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.4585501122836595 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899837994 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870393 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 242954.19055304819 1 11212.901683258253 
+</BinData>
+<SelectorData>
+0.95588373937553928 0 0.5 1.9117674787510786 1 0.5 1 0.08823252124892153 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 4.5491680806485224 0.10000000000000001 171.45139426486796 0.15000000000000002 1104.9086343156168 0.20000000000000001 2424.4228655530351 0.25 4407.1559736417767 0.30000000000000004 6871.4327592582358 0.35000000000000003 8670.8867499912976 0.40000000000000002 8692.4852901201411 0.45000000000000001 10650.869982152895 0.5 11969.967291977027 0.55000000000000004 12837.740785279235 0.60000000000000009 17045.786882113047 0.65000000000000002 16368.292186471081 0.70000000000000007 20746.172716761092 0.75 28287.255289543788 0.80000000000000004 25623.154456061398 0.85000000000000009 31794.810893574901 0.90000000000000002 30431.429459926214 0.95000000000000007 14668.620186734001 1 1395.6992704847323 
+</BinData>
+<SelectorData>
+0.00034320537127759403 0 0.050000000000000003 0.0068641074255518806 0.00200840806742935 0.050000000000000003 0.10000000000000001 0.033304053923035121 0.0068194857529100877 0.10000000000000002 0.15000000000000002 0.096221553709614743 0.01713704797614431 0.15000000000000002 0.20000000000000001 0.20635124446468445 0.034951184933410158 0.20000000000000001 0.25 0.35628273914531694 0.060885826083240509 0.25000000000000006 0.30000000000000004 0.51869282299660702 0.092391464732580392 0.30000000000000004 0.35000000000000003 0.63011277298679758 0.12881043296836203 0.35000000000000003 0.40000000000000002 0.72837936471563292 0.1695182593274645 0.40000000000000002 0.45000000000000001 0.81415652718204912 0.21561498495028494 0.45000000000000001 0.5 0.92193451245640912 0.27002520608960084 0.5 0.55000000000000004 1.0882044227863175 0.33015332080947196 0.55000000000000004 0.60000000000000009 1.2025622943974226 0.40056252509366463 0.59999999999999998 0.65000000000000002 1.408184085683853 0.48558582032946646 0.65000000000000002 0.70000000000000007 1.7004659047160366 0.58264058637054195 0.69999999999999996 0.75 1.9410953208215098 0.69405876094111585 0.75 0.80000000000000004 2.2283634914114794 0.80826439665167293 0.80000000000000004 0.85000000000000009 2.2841127142111399 0.90822896043619505 0.84999999999999998 0.90000000000000002 1.9992912756904417 0.96867418688803364 0.90000000000000002 0.95000000000000007 1.2089045290367721 1 0.94999999999999996 1 0.62651626223932722 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.082397159687635335" keepWeightInformation="0" process="ME:3,-3,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.07798958456319198" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00023545547892298992" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="1.8836438313839193e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00023545524346751099" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="3.7672838954801754e-09">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00023545500801226753" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="3.2936250291190644e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.1079200186362012e-09">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05607045123911986" volume="0.015625" weight="0.0021079179107161825">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00020251875772107688" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1243794059745944" volume="0.015625" weight="0.0025715130260051456">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="8.00551062794683" volume="0.015625" weight="0.010389687468143775">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.077754129084268986" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0018815052294073303" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00066755385758756366" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="3.095888652093131" volume="0.03125" weight="0.0045891170120799362">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0005241439509600656" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="2.577460637772843" volume="0.015625" weight="0.011041970378835555">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09819590297228953" volume="0.015625" weight="0.022503242482608647">
+<Boundaries>
+0.25 0.3125 0 0 1 1 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="1.764460543741569" volume="0.0625" weight="0.019423221949116266">
+<Boundaries>
+0.3125 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.075872623854861654" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0052585304060409743" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1992466370850659" volume="0.03125" weight="0.043640466695898737">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0038947658217941385" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1867718595903178" volume="0.015625" weight="0.085641857110725486">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2078536138884501" volume="0.015625" weight="0.16362315548409936">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4799804100141014" volume="0.0625" weight="1.1298254951811308">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0044075751244433544" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0044075707168682301" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0043909260860568481" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0036858954989552003" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0027524682088449683" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2519321802639169" volume="0.015625" weight="0.11557585658600653">
+<Boundaries>
+0.5 0.515625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2424608488712839" volume="0.015625" weight="0.060582108780071448">
+<Boundaries>
+0.515625 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00093342729011023197" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4110137254415411" volume="0.015625" weight="0.040026623818153077">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2646151295708847" volume="0.015625" weight="0.019712722748901772">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00070503058710164805" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00049877244760292052" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.6373360274482681" volume="0.015625" weight="0.020017488414621969">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.25 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1813369092353608" volume="0.015625" weight="0.011903948231964945">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.25 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00020625813949872747" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1374806336762822" volume="0.015625" weight="0.0088077507190267631">
+<Boundaries>
+0.5625 0.59375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.7330533517986154" volume="0.015625" weight="0.0043927702088917961">
+<Boundaries>
+0.59375 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="1.6644630811382095e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="1.6644614166751285e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="1.6644597522137118e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4073707272724817" volume="0.015625" weight="0.0010652531761625342">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="1.0652542414167754e-09">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="5.3262765333604105e-10">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="2.6631409298211355e-10">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="1.7630300497773416e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:3,-3,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 1083.8113613465925 0.60000000000000009 62085.317106446149 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416862e-06 0 0.050000000000000003 0.0001999640064788337 1.9996400647883372e-05 0.050000000000000003 0.10000000000000001 0.0001999640064788337 2.999460097182506e-05 0.10000000000000002 0.15000000000000002 0.0001999640064788337 3.9992801295766745e-05 0.15000000000000002 0.20000000000000001 0.0001999640064788337 4.9991001619708433e-05 0.20000000000000001 0.25 0.0001999640064788337 5.9989201943650114e-05 0.25000000000000006 0.30000000000000004 0.0001999640064788337 6.9987402267591802e-05 0.30000000000000004 0.35000000000000003 0.0001999640064788337 7.9985602591533489e-05 0.35000000000000003 0.40000000000000002 0.0001999640064788337 8.9983802915475177e-05 0.40000000000000002 0.45000000000000001 0.0001999640064788337 0.0058147182944124918 0.45000000000000001 0.5 0.11449468982994034 0.33909139515924336 0.5 0.55000000000000004 6.665533537296616 0.67236807202407411 0.55000000000000004 0.60000000000000009 6.665533537296616 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.5512388114731541 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.0001999640064788337 0.99995000899837994 0.69999999999999996 0.75 0.0001999640064788337 0.99996000719870393 0.75 0.80000000000000004 0.0001999640064788337 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.0001999640064788337 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.0001999640064788337 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.0001999640064788337 1 0.94999999999999996 1 0.0001999640064788337 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 62534.905255740108 1 634.22321205291144 
+</BinData>
+<SelectorData>
+0.98995991827912788 0 0.5 1.9799198365582558 1 0.5 1 0.020080163441744243 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.89250880501496432 0.10000000000000001 63.834752173814948 0.15000000000000002 441.8856257156653 0.20000000000000001 1466.6910261440898 0.25 2643.6064386416065 0.30000000000000004 3983.8436951696044 0.35000000000000003 4960.4188665652609 0.40000000000000002 5464.2770573905609 0.45000000000000001 6472.5061160294454 0.5 6393.9932075925617 0.55000000000000004 5865.8740356549533 0.60000000000000009 6878.8312019450168 0.65000000000000002 6370.6121130809997 0.70000000000000007 3848.4678734556264 0.75 4028.4037962377602 0.80000000000000004 2273.144147748807 0.85000000000000009 1529.6033058606056 0.90000000000000002 422.18120960558724 0.95000000000000007 59.12327361309557 1 0.93821636274498477 
+</BinData>
+<SelectorData>
+0.00051216934061330973 0 0.050000000000000003 0.010243386812266194 0.003184630002995726 0.050000000000000003 0.10000000000000001 0.053449213247648328 0.013589402612921249 0.10000000000000002 0.15000000000000002 0.20809545219851044 0.03760286645649602 0.15000000000000002 0.20000000000000001 0.4802692768714954 0.080300702247624076 0.20000000000000001 0.25 0.85395671582256105 0.14142848813243442 0.25000000000000006 0.30000000000000004 1.2225557176962063 0.21743574405861815 0.30000000000000004 0.35000000000000003 1.5201451185236747 0.30657107587148574 0.35000000000000003 0.40000000000000002 1.7827066362573525 0.40326873216052994 0.40000000000000002 0.45000000000000001 1.9339531257808842 0.50208487409163094 0.45000000000000001 0.5 1.97632283862202 0.60304444315766659 0.5 0.55000000000000004 2.0191913813207116 0.70388067336484816 0.55000000000000004 0.60000000000000009 2.0167246041436329 0.7940747767131906 0.59999999999999998 0.65000000000000002 1.8038820669668478 0.86923243840598718 0.65000000000000002 0.70000000000000007 1.5031532338559319 0.92277532826743514 0.69999999999999996 0.75 1.0708577972289588 0.96408585195532559 0.75 0.80000000000000004 0.82621047375780721 0.98637299851309335 0.80000000000000004 0.85000000000000009 0.44574293115535546 0.99698084545725041 0.84999999999999998 0.90000000000000002 0.21215693888314147 0.99952474964563642 0.90000000000000002 0.95000000000000007 0.050878083767720725 1.0000000000000002 0.94999999999999996 1 0.009505007087273554 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.038395384012829638" keepWeightInformation="0" process="ME:4,-4,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.03551796888772224" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00026743472403290469" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="2.1394777922632373e-09">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00026743445659818059" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="4.2789513055708902e-09">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00026743418916372401" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="7.6127839462223379e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="4.8721817255822966e-10">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.04109058199331914" volume="0.015625" weight="0.00048721768534005708">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00025982140521750168" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1140344170218704" volume="0.015625" weight="0.001470711310995016">
+<Boundaries>
+0.21875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4161640725065748" volume="0.015625" weight="0.015157858622925091">
+<Boundaries>
+0.21875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.035250534163689333" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0015150472711716082" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00025281103951191189" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="6.2687229750491572e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05725702924902719" volume="0.015625" weight="0.0014121678576654063">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1128852643792026" volume="0.015625" weight="0.0025998148463660543">
+<Boundaries>
+0.3125 0.375 0 0 0.5 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00019012380976142035" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1298274727430346" volume="0.015625" weight="0.0020786095029083035">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3886300207761352" volume="0.015625" weight="0.010089314321822598">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0012622362316596963" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00027629189050219213" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.08104528976704545" volume="0.015625" weight="0.0058575743217212485">
+<Boundaries>
+0.25 0.3125 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09686386965672514" volume="0.015625" weight="0.011825106670419047">
+<Boundaries>
+0.3125 0.375 0 0 0.5 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00098594434115750426" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0.5 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1168347658021506" volume="0.015625" weight="0.0091928841350077378">
+<Boundaries>
+0.25 0.375 0 0.5 0.75 0 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3651551120415012" volume="0.015625" weight="0.05390755369907254">
+<Boundaries>
+0.25 0.375 0 0.75 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.033735486892517721" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0019937788003477346" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00066017066813709737" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1589724208515217" volume="0.015625" weight="0.0099065345422809613">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3620441329229362" volume="0.015625" weight="0.032344388218493267">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1476556061654002" volume="0.03125" weight="0.04267546023074039">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.031741708092169987" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0098033673195295178" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.4375 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.09361420303953487" volume="0.015625" weight="0.12462986964080308">
+<Boundaries>
+0.4375 0.453125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1526178889742694" volume="0.015625" weight="0.502785638809086">
+<Boundaries>
+0.453125 0.46875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.021938340772640466" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.46875 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1035414210517971" volume="0.015625" weight="1.1533078216745185">
+<Boundaries>
+0.46875 0.484375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1562805895297743" volume="0.015625" weight="0.25074598777447121">
+<Boundaries>
+0.484375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0028774151251073992" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.002877412247692274" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0028417090028091097" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0024144116367184115" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0018523737926084778" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1174007494423156" volume="0.015625" weight="0.081104562459965251">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1167524292662247" volume="0.015625" weight="0.037447360266977328">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00056203784410993358" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1522501020845066" volume="0.015625" weight="0.027608487648643897">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1416346164935605" volume="0.015625" weight="0.0083619343743918523">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00042729736609069859" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.3385506362831652" volume="0.03125" weight="0.011200473194661555">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="7.7282578757524988e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.2458185106734785" volume="0.015625" weight="0.0033711766791961356">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 0.75 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.08486635466680927" volume="0.015625" weight="0.0015749083612854634">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.75 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="3.5703244883164413e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="3.5703209179919527e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="3.5703173476710346e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.08563434324030492" volume="0.015625" weight="0.0022684014730864704">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="1.6601629422991682e-05">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="1.1425026937574248e-09">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="5.7125191813063059e-10">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="1.1509660500429596e-08">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:4,-4,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 1068.5510413787849 0.60000000000000009 27254.579607825242 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416862e-06 0 0.050000000000000003 0.0001999640064788337 1.9996400647883372e-05 0.050000000000000003 0.10000000000000001 0.0001999640064788337 2.999460097182506e-05 0.10000000000000002 0.15000000000000002 0.0001999640064788337 3.9992801295766745e-05 0.15000000000000002 0.20000000000000001 0.0001999640064788337 4.9991001619708433e-05 0.20000000000000001 0.25 0.0001999640064788337 5.9989201943650114e-05 0.25000000000000006 0.30000000000000004 0.0001999640064788337 6.9987402267591802e-05 0.30000000000000004 0.35000000000000003 0.0001999640064788337 7.9985602591533489e-05 0.35000000000000003 0.40000000000000002 0.0001999640064788337 8.9983802915475177e-05 0.40000000000000002 0.45000000000000001 0.0001999640064788337 0.012670103219719932 0.45000000000000001 0.5 0.25160238833608911 0.34594678008455076 0.5 0.55000000000000004 6.665533537296616 0.67922345694938158 0.55000000000000004 0.60000000000000009 6.665533537296616 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.4141311129670058 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.0001999640064788337 0.99995000899837994 0.69999999999999996 0.75 0.0001999640064788337 0.99996000719870393 0.75 0.80000000000000004 0.0001999640064788337 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.0001999640064788337 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.0001999640064788337 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.0001999640064788337 1 0.94999999999999996 1 0.0001999640064788337 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 26879.199754889298 1 1443.9308943150004 
+</BinData>
+<SelectorData>
+0.94901937528733027 0 0.5 1.8980387505746605 1 0.5 1 0.10196124942533963 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.69327722360257127 0.10000000000000001 47.129975876169716 0.15000000000000002 255.12974641473855 0.20000000000000001 766.36770346737865 0.25 1192.9063999709751 0.30000000000000004 1680.5666709822838 0.35000000000000003 2253.6781127920563 0.40000000000000002 2343.0463500499891 0.45000000000000001 3136.4112813867232 0.5 2764.664028875342 0.55000000000000004 2898.2507549262245 0.60000000000000009 2859.5927835072634 0.65000000000000002 2513.0828278972713 0.70000000000000007 1976.3164768215368 0.75 1507.4296134567758 0.80000000000000004 1145.4233689275954 0.85000000000000009 663.37156565318367 0.90000000000000002 274.9260040573908 0.95000000000000007 43.496043053721159 1 0.64766386384758723 
+</BinData>
+<SelectorData>
+0.00084380043933830176 0 0.050000000000000003 0.016876008786766036 0.0044073649889362848 0.050000000000000003 0.10000000000000001 0.071271290991959654 0.016977376895941618 0.10000000000000002 0.15000000000000002 0.25140023814010659 0.043024886148121187 0.15000000000000002 0.20000000000000001 0.52095018504359136 0.085839473132546723 0.20000000000000001 0.25 0.85629173968851069 0.14614894103054982 0.25000000000000006 0.30000000000000004 1.206189357960062 0.21998723339883733 0.30000000000000004 0.35000000000000003 1.4767658473657497 0.31095028192294583 0.35000000000000003 0.40000000000000002 1.8192609704821694 0.40792393703888968 0.40000000000000002 0.45000000000000001 1.9394731023188785 0.51142833038211055 0.45000000000000001 0.5 2.0700878668644149 0.61167657314323753 0.5 0.55000000000000004 2.004964855222541 0.70896552568249038 0.55000000000000004 0.60000000000000009 1.9457790507850576 0.79540998314898304 0.59999999999999998 0.65000000000000002 1.7288891493298515 0.8659492647440179 0.65000000000000002 0.70000000000000007 1.4107856319006968 0.92040109128260172 0.69999999999999996 0.75 1.0890365307716783 0.95940905706221502 0.75 0.80000000000000004 0.78015931559226459 0.9839193741083756 0.80000000000000004 0.85000000000000009 0.49020634092321308 0.99546798039078666 0.84999999999999998 0.90000000000000002 0.2309721256482225 0.99922112200913327 0.90000000000000002 0.95000000000000007 0.075062832366931495 1 0.94999999999999996 1 0.015577559817336262 
+</SelectorData>
+</Remapper>
+</Remappers>
+<CellGrid branching="1" dimension="5" integral="0.020371372711797658" keepWeightInformation="0" process="ME:5,-5,-11,11" referenceWeight="0">
+<Boundaries>
+0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.019262952924422788" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="5.4928317371352607e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.125" weight="4.3942653897082084e-10">
+<Boundaries>
+0 0.125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="5.4928262443035233e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.125 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="8.788521990885637e-10">
+<Boundaries>
+0.125 0.1875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="5.4928207514772787e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.4125894589840384e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.1875 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.8240572537497844e-10">
+<Boundaries>
+0.1875 0.203125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.01692273498665733" volume="0.015625" weight="0.00028240544296925308">
+<Boundaries>
+0.203125 0.21875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="5.0515618055788758e-05" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.21875 0.25 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.04678165471085653" volume="0.015625" weight="0.0010428847786762353">
+<Boundaries>
+0.21875 0.25 0 0 0.5 0 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.02866952596201422" volume="0.015625" weight="0.0021901147768942451">
+<Boundaries>
+0.21875 0.25 0 0.5 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.019208024607051434" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00048906037582712044" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.4740061852967812" volume="0.0625" weight="0.0022472971916925764">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.5641679346253625" volume="0.0625" weight="0.0055776688215413515">
+<Boundaries>
+0.25 0.375 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.018718964231224315" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0012500711569332207" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.375 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1621967917598646" volume="0.03125" weight="0.010408625962219803">
+<Boundaries>
+0.375 0.40625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00092480159561385191" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.40625 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07530497942124686" volume="0.015625" weight="0.020400668756376427">
+<Boundaries>
+0.40625 0.421875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.04852477046317107" volume="0.015625" weight="0.038786633362910092">
+<Boundaries>
+0.421875 0.4375 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1244913289627952" volume="0.0625" weight="0.27950228918865749">
+<Boundaries>
+0.4375 0.5 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0011084197873748706" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0011084186789550835" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.0011039999515367325" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00092560214162733918" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="0.00068700739072039322" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.05715206879312516" volume="0.015625" weight="0.028845769006650014">
+<Boundaries>
+0.5 0.515625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.0536852605863283" volume="0.015625" weight="0.015122703999455155">
+<Boundaries>
+0.515625 0.53125 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.0002385947509069459" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07105496468000033" volume="0.015625" weight="0.010306986822176447">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.06330433027820231" volume="0.015625" weight="0.0049630772358680896">
+<Boundaries>
+0.53125 0.5625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="0.00017839780990939338" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.211014364511073" volume="0.03125" weight="0.004013295492585077">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0 0.5 0 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.1266801170059922" volume="0.03125" weight="0.0016954344245155111">
+<Boundaries>
+0.5625 0.625 0 0 1 1 0 1 1 0.5 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="1" dimension="5" integral="4.4187274183506884e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.4187229996232704e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="1" dimension="5" integral="4.4187185809002704e-06" keepWeightInformation="0" referenceWeight="0">
+<Boundaries>
+0.625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+<FirstChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0.07389686888144191" volume="0.015625" weight="0.00028279770637962813">
+<Boundaries>
+0.625 0.640625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.015625" weight="2.8279798917761728e-10">
+<Boundaries>
+0.640625 0.65625 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.03125" weight="1.4139913598794463e-10">
+<Boundaries>
+0.65625 0.6875 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.0625" weight="7.0699638693611012e-11">
+<Boundaries>
+0.6875 0.75 0 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</FirstChild>
+<SecondChild>
+<CellGrid branching="0" dimension="5" keepWeightInformation="1" referenceWeight="0" volume="0.25" weight="4.4336791494994826e-09">
+<Boundaries>
+0.75 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+</Boundaries>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+</SecondChild>
+</CellGrid>
+<Remappers process="ME:5,-5,-11,11">
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="0">
+<BinData>
+0.050000000000000003 0 0.10000000000000001 0 0.15000000000000002 0 0.20000000000000001 0 0.25 0 0.30000000000000004 0 0.35000000000000003 0 0.40000000000000002 0 0.45000000000000001 0 0.5 0 0.55000000000000004 262.33930136903689 0.60000000000000009 15256.410839446373 0.65000000000000002 0 0.70000000000000007 0 0.75 0 0.80000000000000004 0 0.85000000000000009 0 0.90000000000000002 0 0.95000000000000007 0 1 0 
+</BinData>
+<SelectorData>
+9.9982003239416879e-06 0 0.050000000000000003 0.00019996400647883376 1.9996400647883376e-05 0.050000000000000003 0.10000000000000001 0.00019996400647883376 2.9994600971825067e-05 0.10000000000000002 0.15000000000000002 0.00019996400647883376 3.9992801295766751e-05 0.15000000000000002 0.20000000000000001 0.00019996400647883376 4.9991001619708439e-05 0.20000000000000001 0.25 0.00019996400647883376 5.9989201943650127e-05 0.25000000000000006 0.30000000000000004 0.00019996400647883376 6.9987402267591815e-05 0.30000000000000004 0.35000000000000003 0.00019996400647883376 7.9985602591533503e-05 0.35000000000000003 0.40000000000000002 0.00019996400647883376 8.9983802915475191e-05 0.40000000000000002 0.45000000000000001 0.00019996400647883376 0.0057305241289855339 0.45000000000000001 0.5 0.11281080652140119 0.33900720099381648 0.5 0.55000000000000004 6.6655335372966178 0.67228387785864729 0.55000000000000004 0.60000000000000009 6.6655335372966178 0.99993001259773195 0.59999999999999998 0.65000000000000002 6.552922694781695 0.99994001079805594 0.65000000000000002 0.70000000000000007 0.00019996400647883376 0.99995000899837994 0.69999999999999996 0.75 0.00019996400647883376 0.99996000719870393 0.75 0.80000000000000004 0.00019996400647883376 0.99997000539902803 0.80000000000000004 0.85000000000000009 0.00019996400647883376 0.99998000359935202 0.84999999999999998 0.90000000000000002 0.00019996400647883376 0.99999000179967601 0.90000000000000002 0.95000000000000007 0.00019996400647883376 1 0.94999999999999996 1 0.00019996400647883376 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="2" Smooth="0" dimension="1">
+<BinData>
+0.5 15361.848450342744 1 156.9016904726536 
+</BinData>
+<SelectorData>
+0.98988954077815894 0 0.5 1.9797790815563179 1 0.5 1 0.02022091844368203 
+</SelectorData>
+</Remapper>
+<Remapper MinSelection="1e-05" NBins="20" Smooth="1" dimension="4">
+<BinData>
+0.050000000000000003 0.24597512895316095 0.10000000000000001 22.457432592366505 0.15000000000000002 145.19304883966782 0.20000000000000001 295.92938497678466 0.25 579.22522436000577 0.30000000000000004 849.99384261003388 0.35000000000000003 1094.1401182259096 0.40000000000000002 1530.4912651226336 0.45000000000000001 1421.3623428678982 0.5 1682.3748320815043 0.55000000000000004 1652.8484894605372 0.60000000000000009 1741.6955203126208 0.65000000000000002 1505.9546098731198 0.70000000000000007 984.05994739785467 0.75 893.4434308953156 0.80000000000000004 657.79670845162366 0.85000000000000009 326.45852174835335 0.90000000000000002 116.5642776113267 0.95000000000000007 18.243463720463613 1 0.27170453846273057 
+</BinData>
+<SelectorData>
+0.00073116758631414612 0 0.050000000000000003 0.014623351726282922 0.0043359259086846024 0.050000000000000003 0.10000000000000001 0.072095166447409112 0.01428904472816105 0.10000000000000002 0.15000000000000002 0.19906237638952892 0.036196039002258429 0.15000000000000002 0.20000000000000001 0.43813988548194766 0.073235196152194468 0.20000000000000001 0.25 0.74078314299872061 0.12741203948456656 0.25000000000000006 0.30000000000000004 1.0835368666474414 0.20201268596004951 0.30000000000000004 0.35000000000000003 1.4920129295096589 0.28888068696243818 0.35000000000000003 0.40000000000000002 1.7373600200477735 0.38837816224743577 0.40000000000000002 0.45000000000000001 1.9899495056999521 0.49050266273456439 0.45000000000000001 0.5 2.042490009742572 0.59950475737095243 0.5 0.55000000000000004 2.1800418927277603 0.70471908735008504 0.55000000000000004 0.60000000000000009 2.1042865995826534 0.79557444208764827 0.59999999999999998 0.65000000000000002 1.8171070947512642 0.86821771634759615 0.65000000000000002 0.70000000000000007 1.4528654851989566 0.92265093235820383 0.69999999999999996 0.75 1.0886643202121529 0.96296536194253779 0.75 0.80000000000000004 0.80628859168667966 0.9866000970852008 0.80000000000000004 0.85000000000000009 0.47269470285325799 0.99650354254631979 0.84999999999999998 0.90000000000000002 0.19806890922237919 0.9994037154663189 0.90000000000000002 0.95000000000000007 0.058003458399982361 1 0.94999999999999996 1 0.011925690673622426 
+</SelectorData>
+</Remapper>
+</Remappers>
+</Grids>
