@@ -13,12 +13,12 @@ number_of_runs = 10  # <--- SET HOW MANY TIMES YOU WANT TO RUN THE FULL SEQUENCE
 herwig_run_directory = "/home/rosie/herwig-run" 
 herwig_input_file = "LHC-Matchbox.in"
 number_of_events_per_run = 5000  # Events for each of the 10 runs
-number_of_jobs = 8               # Parallel jobs for Herwig
+number_of_jobs = 4               # Parallel jobs for Herwig
 
 # --- CodeCarbon Settings ---
 output_directory_for_reports = os.getcwd() # Saves reports in the same folder as this script
-integration_report_file = "Integration_10_Runs.csv"
-generation_report_file = "Generation_10_Runs.csv"
+integration_report_file = "Int_emissions-5000-4.csv"
+generation_report_file = "Gen_emissions-5000-4.csv"
 
 # ==============================================================================
 # ---                            EXECUTION                                 ---
