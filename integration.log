@@ -1,0 +1,21 @@
+determining subprocesses for p p e+ e- 
+building matrix elements.
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+created 10 subprocesses.
+---------------------------------------------------
+preparing Born matrix elements.
+Process setup finished.
+integrating subprocesses
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+----------------------------------------------------
+
+Re-using an existing grid as starting point for grid
+optimization. Please consider removing the grid files 
+and re-running the grid adaption when there have
+been significant changes to parameters, cuts, etc.
+
+----------------------------------------------------
