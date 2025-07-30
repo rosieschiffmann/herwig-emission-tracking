@@ -11,15 +11,16 @@ herwig_run_directory = "/home/rosie/herwig-run"
 # The input file you want to use
 herwig_input_file = "LHC-Matchbox.in"
 # The number of events to generate
-number_of_events = 100 
+number_of_events = 10000
 # The number of parallel jobs for Herwig (adjust based on your CPU cores)
-number_of_jobs = 8 # Using 96 might be too high unless you have that many cores. 8 is a safe start.
+number_of_jobs = 4 # Using 96 might be too high unless you have that many cores. 8 is a safe start.
 
 # --- CodeCarbon Settings ---
 # Where to save the emission reports
 output_directory_for_reports = os.getcwd() # Saves reports in the same folder as this script
-integration_report_file = "Int_emissions.csv"
-generation_report_file = "Gen_emissions.csv"
+#naming convention = process_emissions-events-jobs.csv
+integration_report_file = "Int_emissions-10000-4.csv"
+generation_report_file = "Gen_emissions-10000-4.csv"
 
 # ==============================================================================
 # ---                            EXECUTION                                 ---
