@@ -1,0 +1,100 @@
+import subprocess
+import os
+from codecarbon import EmissionsTracker
+
+# ==============================================================================
+# ---                           CONFIGURATION                              ---
+# ==============================================================================
+# --- Herwig Settings ---
+# The main directory where your .in and .run files are located
+herwig_run_directory = "/home/rosie/herwig-run" 
+# The input file you want to use
+herwig_input_file = "LHC-Matchbox.in"
+# The number of events to generate
+number_of_events = 100 
+# The number of parallel jobs for Herwig (adjust based on your CPU cores)
+number_of_jobs = 8 # Using 96 might be too high unless you have that many cores. 8 is a safe start.
+
+# --- CodeCarbon Settings ---
+# Where to save the emission reports
+output_directory_for_reports = os.getcwd() # Saves reports in the same folder as this script
+integration_report_file = "Int_emissions.csv"
+generation_report_file = "Gen_emissions.csv"
+
+# ==============================================================================
+# ---                            EXECUTION                                 ---
+# ==============================================================================
+
+# Derive the .run filename from the .in filename
+run_file_name = herwig_input_file.replace('.in', '.run')
+
+# --- Phase 1: Integration (Herwig read) ---
+print("="*60)
+print("PHASE 1: Starting Integration (Herwig read)")
+print("="*60)
+integration_tracker = EmissionsTracker(
+    output_dir=output_directory_for_reports, 
+    output_file=integration_report_file
+)
+integration_command = ["Herwig", "read", herwig_input_file]
+integration_log_file = "integration.log"
+
+try:
+    integration_tracker.start()
+    print(f"Running command: {' '.join(integration_command)}")
+    
+    # Run the Herwig read command, saving its output to a log file
+    with open(integration_log_file, "w") as log:
+        subprocess.run(
+            integration_command, 
+            check=True,                 # This will raise an error if the command fails
+            cwd=herwig_run_directory,   # IMPORTANT: Run the command from the correct directory
+            stdout=log, 
+            stderr=subprocess.STDOUT
+        )
+    print(f"Integration phase successful. Output logged to {integration_log_file}")
+
+finally:
+    # This block will run even if there's an error, ensuring we always stop the tracker.
+    emissions = integration_tracker.stop()
+    print(f"Integration Phase emissions: {emissions} kg CO₂eq.")
+    print(f"Full report saved to: {integration_report_file}")
+
+
+# --- Phase 2: Event Generation (Herwig run) ---
+print("\n" + "="*60)
+print("PHASE 2: Starting Event Generation (Herwig run)")
+print("="*60)
+generation_tracker = EmissionsTracker(
+    output_dir=output_directory_for_reports, 
+    output_file=generation_report_file
+)
+generation_command = [
+    "Herwig", "run", run_file_name, 
+    "-N", str(number_of_events), 
+    "-j", str(number_of_jobs)
+]
+generation_log_file = "generation.log"
+
+try:
+    generation_tracker.start()
+    print(f"Running command: {' '.join(generation_command)}")
+    
+    # Run the Herwig run command, saving its output to a log file
+    with open(generation_log_file, "w") as log:
+        subprocess.run(
+            generation_command, 
+            check=True, 
+            cwd=herwig_run_directory,
+            stdout=log, 
+            stderr=subprocess.STDOUT
+        )
+    print(f"Generation phase successful. Output logged to {generation_log_file}")
+
+finally:
+    # This block ensures the second tracker is also always stopped.
+    emissions = generation_tracker.stop()
+    print(f"Generation Phase emissions: {emissions} kg CO₂eq.")
+    print(f"Full report saved to: {generation_report_file}")
+
+print("\nAll phases complete.")
