@@ -1,1 +1,3 @@
 # herwig-experiements
+
+Inside this repository, HERWIG software is used to simulate particle physics collision events, and CodeCarbon is subsequently used to track the energy consumption metrics for the HERWIG simulations. Inside run_herwig_with_cc_loop.py, HERWIG and CodeCarbon are configured and run, looped over 10 times such that 10 rows of CodeCarbon output data is added to the YYYYMMDDType_metadata-EVENTS-JOBS.csv files. Inside Plotting_herwig_cc.ipynb, these CSV files are averaged, combined and plotted to display the variations in CPU and RAM energy and power, with respect to simulation runtime, and the number of collisison events simulated. The CO2e emissions data is also plotted. The integration and generation phases of HERWIG simulation are plotted separately.
