@@ -20,7 +20,7 @@ number_of_measured_runs = 8 # Number of runs to actually measure and save
 # --- Herwig Settings ---
 herwig_run_directory = "/home/rosie/herwig-run" 
 herwig_input_file = "LHC-Matchbox.in"
-number_of_events_per_run = 2000
+number_of_events_per_run = 12000
 number_of_jobs = 1
 
 # --- CodeCarbon Settings ---
